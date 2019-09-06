@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Demo Project MVP Clean Architecture</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="submit">Submit</string>
+</resources>
